@@ -1,4 +1,4 @@
 mcheck-cvc4
 ===========
 
-CVC4 Model Checking
+Network model checking implemented on CVC4
